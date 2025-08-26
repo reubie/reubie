@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Reuben
-- 👀 I’m interested in mobile app development, game development and backend APIs
-- 🌱 I’m currently learning flutter, game development and node.js
-- 💞️ I’m looking to collaborate on any and all mobile apps and any game development
-- 📫 How to reach me nguyo.affiliate@gmail.com/ r.nguyo27@gmail.com
+# 👋 Hi, I’m Reuben Nguyo  
 
+- 🚀 Tech Lead & Full-Stack Engineer with 8+ years of experience in **frontend, mobile, and backend development**  
+- 💻 Skilled in **React (latest), Next.js, TypeScript, React Native, Flutter, and Node.js**  
+- 🏦 Experienced in **fintech systems, blockchain/Web3 integrations, and scalable SaaS platforms**  
+- 🤝 Open to collaborating on **AI/LLM-powered apps, fintech solutions, and open-source projects**  
+- 📚 Currently exploring **AI/LLM applications, system architecture for SaaS, and advanced React/Next.js patterns**  
+- 🌍 Passionate about building **user-centric products** that combine performance, accessibility, and design excellence  
+- 📫 Reach me at: **nguyo.affiliate@gmail.com** | **r.nguyo27@gmail.com** | [LinkedIn](https://linkedin.com/in/reubienguyo)  
+
+---
 <!---
-reubie/reubie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+reubie/reubie is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
